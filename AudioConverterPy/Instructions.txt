@@ -1,0 +1,5 @@
+To convert an audio you have and change the voice for the google's voice
+you have to pass that audio to the project folder, and rename it to fuente.wav
+If you audio it's not in wav, you will have to convert it to that type of file.
+Once you have the fuente.wav in the folder, open main.py, and when the process
+ends, your file converted will be open.
